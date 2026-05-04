@@ -1,0 +1,10 @@
+{
+  "eth": {
+    "amount": 12.0,
+    "buy_price": 10.0
+  },
+  "btc": {
+    "amount": 144.0,
+    "buy_price": 2344.0
+  }
+}
